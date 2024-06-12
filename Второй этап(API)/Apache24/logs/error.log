@@ -1,0 +1,12 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::e89c:e957:7345:d097. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 19 14:05:42.627007 2024] [mpm_winnt:notice] [pid 8324:tid 424] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Mar 19 14:05:42.628006 2024] [mpm_winnt:notice] [pid 8324:tid 424] AH00456: Apache Lounge VS17 Server built: Jan 30 2024 19:01:23
+[Tue Mar 19 14:05:42.628006 2024] [core:notice] [pid 8324:tid 424] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Mar 19 14:05:42.634002 2024] [mpm_winnt:notice] [pid 8324:tid 424] AH00418: Parent: Created child process 10732
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::e89c:e957:7345:d097. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::e89c:e957:7345:d097. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 19 14:05:44.985026 2024] [mpm_winnt:notice] [pid 10732:tid 428] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 19 14:07:52.622224 2024] [mpm_winnt:notice] [pid 8324:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 19 14:07:54.633744 2024] [mpm_winnt:notice] [pid 10732:tid 428] AH00364: Child: All worker threads have exited.
+[Tue Mar 19 14:07:54.653742 2024] [mpm_winnt:notice] [pid 8324:tid 424] AH00430: Parent: Child process 10732 exited successfully.
